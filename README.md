@@ -1,2 +1,3 @@
 # Elevator_STM32_TeamProj
-Elevator project with step motor and photointerrupt using STM32
+![image](https://github.com/user-attachments/assets/a7f33934-a286-4f11-8757-d6dfc788e4c6)
+Notion link
