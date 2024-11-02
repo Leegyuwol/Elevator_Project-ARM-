@@ -1,3 +1,3 @@
 # Elevator_STM32_TeamProj
-![image](https://github.com/user-attachments/assets/a7f33934-a286-4f11-8757-d6dfc788e4c6)
+![image](https://github.com/user-attachments/assets/1187a679-ba84-42d4-80c6-e94f05a84392)
 Notion link
